@@ -14,6 +14,7 @@ a {
 
 body {
     background-color: #1f2937;
+    margin: 0;
 }
 
 .header {
@@ -90,7 +91,7 @@ a {
     display: flex;
     justify-content: center;
     gap: 52px;    
-    padding-bottom: 150px;
+    padding-bottom: 105px;
 }
 
 .card-content img {
@@ -103,4 +104,11 @@ a {
 
 .card-text  {
     width: 200px;
+}
+
+/* content-three below */
+
+.content-three {
+    background-color: #e5e7eb;
+    display: flex;
 }
