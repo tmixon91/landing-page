@@ -40,6 +40,7 @@ a {
     justify-content: space-between;
     color: #f9faf8;
     padding: 0 200px;
+    margin-bottom: 100px;
 }
 
 .left-content {
@@ -72,3 +73,34 @@ a {
 }
 
 /* content two below */
+
+.content-two {
+    background-color: white;
+    text-align: center;
+}
+
+.cta-header {
+    font-size: 36px;
+    font-weight: bolder;
+    color: #1f2937;
+    padding-top: 30px;
+}
+
+.card-content {
+    display: flex;
+    justify-content: center;
+    gap: 52px;    
+    padding-bottom: 150px;
+}
+
+.card-content img {
+    height: 200px;
+    width: 200px;
+    border-color: #3882f6;
+    border-style: solid;
+    border-radius: 4px;
+}
+
+.card-text  {
+    width: 200px;
+}
